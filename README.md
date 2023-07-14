@@ -14,4 +14,5 @@ Welcome to Calculate Me! This is a simple calculator web application that allows
 1. Clone the repository:
 
    ```shell
-   git clone https://dhengareharry.github.io/Calculate_Me/
+   git clone
+   https://dhengareharry.github.io/Calculate_Me/
